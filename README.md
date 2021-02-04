@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+## Content Table
+___
 
-You can use the [editor on GitHub](https://github.com/Aseelwadi/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Page link         | discreption 
+------------ | -------------
+[Markdown ](https://aseelwadi.github.io/reading-notes/)      |  Mastering Markdown on GitHub  / What is Markdown ?
+[Growth_mind ](https://aseelwadi.github.io/reading-notes/Growth-mind)      |   Growth mindset  /What Is a Growth Mindset 
+[Remote-Pages](https://aseelwadi.github.io/reading-notes/Remote-Page)     |   Seeing Your Remote page 
+[Text-Editors](https://aseelwadi.github.io/reading-notes/editors)    |   Seeing Your Remote page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[HTML-Css](https://aseelwadi.github.io/reading-notes/Html-Css)      |   HTML&CSS 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+____________
+# Reading-notes
 
-1. Numbered
-2. List
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+___
+___
+#### what we learned in Markkdown tutorial .?
 
-**Bold** and _Italic_ and `Code` text
+ PS . line through  ~~word~~
 
-[Link](url) and ![Image](src)
+   1. Text format
+   2. List
+   3. Table
+   5. url
+   6. images
+   7. code
+      * Item 3a
+      * Item 3b
+   8. How to add line   
+
+ ### ordered List as above 
+ ___
+
+
+ ### Example of un Unordered List 
+      
+* C++
+* PHP
+  * JQ
+  * JS
+ ___
+
+ ### URL Example
+ [Google](http://google.com)
+
+___
+### IMG Example 
+![LTUC](https://tse3.mm.bing.net/th?id=OIP.NnKjqMfUo-fisKWU9URw4QHaE5&pid=Api&P=0&w=271&h=180)
+
+
+ ___
+ ### Code Example :
+
+ ```C++
+var add2 = function(number) {
+  return number + 2;
+}
 ```
+ ___
+ WE add Line by write three dashes - - - without spaces .
+ ___
+ ### Blockquotes Example 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aseelwadi/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> We're living the future so
+> the present is our past.
+___
