@@ -7,8 +7,8 @@ Page link         | discreption
 [Growth_mind ](https://aseelwadi.github.io/reading-notes/Growth-mind)      |   Growth mindset  /What Is a Growth Mindset 
 [Remote-Pages](https://aseelwadi.github.io/reading-notes/Remote-Page)     |   Seeing Your Remote page 
 [Text-Editors](https://aseelwadi.github.io/reading-notes/editors)    |   Seeing Your Remote page
-
 [HTML-Css](https://aseelwadi.github.io/reading-notes/Html-Css)      |   HTML&CSS 
+[Js](https://aseelwadi.github.io/reading-notes/Javascript)      |   JAVASCRIPT
 
 
 
