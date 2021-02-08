@@ -60,3 +60,18 @@ update
  Condition |	If the condition is not put up in 'for' loop, then loop iterates infinite times.|	If the condition is not put up in 'while' loop, it provides compilation error.
  Initialization	 | In 'for' loop the initialization once done is never repeated.|	In while loop if initialization is done during condition checking, then initialization is done each time the loop iterate.
 
+
+ ______________
+ ## JavaScript Comparison Operators
+Operator |	Descriptio
+---------|------------
+== |	equal to
+===	| equal value and equal type
+!= | 	not equal
+!==	| not equal value or not equal type
+">"	| greater than
+<	| less than
+">=" | 	greater than or equal to
+<= |	less than or equal to
+?  |	ternary operator
+
