@@ -9,6 +9,8 @@ Page link         | discreption
 [Text-Editors](https://aseelwadi.github.io/reading-notes/editors)    |   Seeing Your Remote page
 [HTML-Css](https://aseelwadi.github.io/reading-notes/Html-Css)      |   HTML&CSS 
 [Js](https://aseelwadi.github.io/reading-notes/Javascript)      |   JAVASCRIPT
+[Js2](https://aseelwadi.github.io/reading-notes/Js2)      |   JAVASCRIPT Loops
+
 
 
 
