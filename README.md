@@ -10,6 +10,9 @@ Page link         | discreption
 [HTML-Css](https://aseelwadi.github.io/reading-notes/Html-Css)      |   HTML&CSS 
 [Js](https://aseelwadi.github.io/reading-notes/Javascript)      |   JAVASCRIPT
 [Js2](https://aseelwadi.github.io/reading-notes/Js2)      |   JAVASCRIPT Loops
+[Js-Functions](https://aseelwadi.github.io/reading-notes/Js-Functions)      |JAVASCRIPT Functions
+[Css](https://aseelwadi.github.io/reading-notes/css-Colors)      | Css
+
 
 
 
