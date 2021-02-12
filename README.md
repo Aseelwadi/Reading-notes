@@ -12,6 +12,8 @@ Page link         | discreption
 [Js2](https://aseelwadi.github.io/reading-notes/Js2)      |   JAVASCRIPT Loops
 [Js-Functions](https://aseelwadi.github.io/reading-notes/Js-Functions)      |JAVASCRIPT Functions
 [Css](https://aseelwadi.github.io/reading-notes/css-Colors)      | Css
+[Class-01](https://aseelwadi.github.io/reading-notes/css-Colors)      | Class-01
+
 
 
 
