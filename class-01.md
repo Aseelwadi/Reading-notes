@@ -79,10 +79,6 @@ Example
 ``` html
 <div>Hello World</div>
 ```
-Here are the block-level elements in HTML:
-
-``` html
-<address><article><aside><blockquote><canvas><dd><div><dl><dt><fieldset><figcaption><figure><footer><form><h1>-<h6><header><hr><li><main><nav><noscript><ol><p><pre><section><table><tfoot><ul><video>``` 
 
 ### Inline Elements
 An inline element does not start on a new line.
@@ -92,8 +88,9 @@ An inline element only takes up as much width as necessary.
 This is a <span> element inside a paragraph.
 
 Example
-``` html 
-<span>Hello World</span> ``` 
+
+> ""<span>Hello World</span>""
+
 _______
 # HTML5 Layout
  ___
@@ -113,31 +110,31 @@ ___
 
 Tag      | Description
 ---------|-------------
-<!--...--> |	Defines a comment
-<!DOCTYPE> |	Defines the document type
-<a>     |Defines a hyperlink
-<article> |	Defines an article
-<aside>	 | Defines content aside from the page content
-<div>	|Defines a section in a document
-<figcaption> |	Defines a caption for a <figure> element
-<figure> |	Specifies self-contained content
-<head> |	Contains metadata/information for the document
-<header>	| Defines a header for a document or section
-<hr> |	Defines a thematic change in the content
-<html> |	Defines the root of an HTML document
-<i>	 | Defines a part of text in an alternate voice or mood
-<iframe> |	Defines an inline frame
-<img>	| Defines an image
-<meta> |	Defines metadata about an HTML document
-<p>	 | Defines a paragraph
-<span>	 | Defines a section in a document
-<strong>	| Defines important text
-<style>	 |Defines styles information for the document
-<nav>	| Defines navigation links
-<h1> to <h6>	| Defines HTML headings
-<head> |	Contains metadata/information for the document
-<header> |	Defines a header for a document or section
-<footer> |	Defines a footer for a document or section
+"!--...--" |	Defines a comment
+"!DOCTYPE" |	Defines the document type
+"a"     |Defines a hyperlink
+"article> |	Defines an article
+"aside>	 | Defines content aside from the page content
+"div>	|Defines a section in a document
+"figcaption> |	Defines a caption for a <figure> element
+"figure> |	Specifies self-contained content
+"head> |	Contains metadata/information for the document
+"header>	| Defines a header for a document or section
+"hr> |	Defines a thematic change in the content
+"html> |	Defines the root of an HTML document
+"i>	 | Defines a part of text in an alternate voice or mood
+"iframe> |	Defines an inline frame
+"img>	| Defines an image
+"meta> |	Defines metadata about an HTML document
+"p>	 | Defines a paragraph
+"span>	 | Defines a section in a document
+"strong>	| Defines important text
+"style>	 |Defines styles information for the document
+"nav>	| Defines navigation links
+"h1> to 'h6>	| Defines HTML headings
+head> |	Contains metadata/information for the document
+header> |	Defines a header for a document or section
+footer> |	Defines a footer for a document or section
 
 ____________________
 ## PROCESS & DESIGN
