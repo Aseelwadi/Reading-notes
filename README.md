@@ -25,7 +25,7 @@ ________________________
 
 Page link         | discreption 
 ------------ | -------------
-[Class-01](https://aseelwadi.github.io/reading-notes/class-01)      | Html , Css , JS Summary 
+[Class-01](https://aseelwadi.github.io/reading-notes/class-01)      | Html , Css , JS introduction
 [Class-02](https://aseelwadi.github.io/reading-notes/class-02)      | Class-02
 [Class-03](https://aseelwadi.github.io/reading-notes/class-03)      | Class-03
 [Class-04](https://aseelwadi.github.io/reading-notes/class-04)      | Class-04
