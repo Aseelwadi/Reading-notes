@@ -29,7 +29,7 @@ Page link         | discreption
 [Class-02](https://aseelwadi.github.io/reading-notes/class02)      | Class-02 introduction 2 (html,css.js)
 [Class-03](https://aseelwadi.github.io/reading-notes/class-03)      | HTML Lists, Control Flow with JS, and the CSS Box Model
 [Class-04](https://aseelwadi.github.io/reading-notes/class-04)      | HTML Links, JS Functions, and Intro to CSS Layout
-[Class-05](https://aseelwadi.github.io/reading-notes/class-05)      | Class-05
+[Class-05](https://aseelwadi.github.io/reading-notes/class-05)      | Images, Color, Text
 [Class-06](https://aseelwadi.github.io/reading-notes/class-06)      | Class-06
 [Class-07](https://aseelwadi.github.io/reading-notes/class-07)      | Class-07
 [Class-08](https://aseelwadi.github.io/reading-notes/class-08)      | Class-08
