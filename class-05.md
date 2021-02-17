@@ -1,194 +1,174 @@
-# HTML Forms
-___
-![forms](https://www.kooba.ie/images/uploads/blog/article/Social_Post_-_Forms.jpg)
+# HTML Images
 
-### An HTML form is used to collect user input. The user input is most often sent to a server for processing.
-- - 
+* HTML Images Syntax
 
-## * The < form> Element
-The HTML < form> element is used to create an HTML form for user input:
- ```html
-<form>
-.
-form elements
-.
-</form>
+The HTML **< img>** tag is used to embed an image in a web page.
 
- ```
+The < img> tag is empty, it contains attributes only, and does not have a closing tag.
 
-* ### note : 
-The < form> element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
-____
+* The < img> tag has two required attributes:
 
 
- ## HTML Form Elements.
+src - Specifies the path to the image
+alt - Specifies an alternate text for the image .
 
-* The **< input>** Element :
+* ### Align Images
+Using Text-align: This method must be applied when images are placed inside the container.
+* Align Images Horizontally
+![](https://www.tutorialmines.net/wp-content/uploads/2018/02/align-image-horizontal.png)
 
-The HTML < input> element is the most used form element.
+1-Image Align Center Using Margin
+2-Image Align with Float
+3-Using Position
 
-* An < input> element can be displayed in many ways, depending on the type attribute.
+*  Vertical Align Image
+![](https://www.tutorialmines.net/wp-content/uploads/2018/02/align-image-vertical.png)
+_
+* image-resolution Property
+The image-resolution property specifies the intrinsic resolution of all raster images used in or on the element. It affects both content images (e.g. replaced elements and generated content) and decorative images (such as 'background-image'). The intrinsic resolution of an image is used to determine the image's intrinsic dimensions.
 
-Here are some examples:
-
-Type |	Description
-------|-------------
-< input type="text"> |	Displays a single-line text input field
-< input type="radio">	| Displays a radio button (for selecting one of many choices)
-< input type="checkbox"> |	Displays a checkbox (for selecting zero or more of many choices)
-< input type="submit"> |	Displays a submit button (for submitting the form)
-< input type="button"> |	Displays a clickable button
+Syntax
+```css
+image-resolution: [from-image || <resolution>] && snap?
+```
 _______
 
-## How Forms Work 
-
-![img](https://th.bing.com/th/id/OIP.r24LFj9R3LlITunueSKUAQHaFj?pid=ImgDet&w=400&h=300&rs=1)
-
-____
-
-## HTML Form Attributes
-
-* The Action Attribute
-
-The action attribute defines the action to be performed when the form is submitted.
+* Animated Images
+HTML allows animated GIFs:
 
 Example
 ```html
-<form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Aseel"><br>
-  <label for="lname">Last name:</label><br>
-  <br>
-  <input type="submit" value="Submit">
-</form>
-```
-
-___
-* The Method Attribute
-
-The method attribute specifies the HTTP method to be used when submitting the form data.
-
-Example
-
-```html 
-<form action="/action_page.php" method="get">
+<img src="programming.gif" alt="Computer Man" style="width:48px;height:48px;"> 
 ```
 _______
-## HTML Tables
 
-* The < table> tag defines an HTML table.
+## Summary Notes  :
+* Use the HTML < img> element to define an image
 
-* Each table row is defined with a < tr> tag. 
-* Each table header is defined with a < th> tag. * Each table data/cell is defined with a < td> tag.
+* Use the HTML src attribute to define the URL of the image
 
---- By default, the text in  < th> elements are bold and centered.
+* Use the HTML alt attribute to define an alternate text for an image, if it cannot be displayed
 
-1- HTML Table - Add a Border
-To add a border to a table, use the CSS border property
+* Use the HTML width and height attributes or the CSS width and height properties to define the size of the image
+
+* Use the CSS float property to let the image float to the left or to the right
+
+___
+HTML Image Tags|Tag	Description
+----------------|-------------
+< img> |	Defines an image
+< map> |	Defines an image map
+< area>	|Defines a clickable area inside an image map
+< picture> |	Defines a container for multiple image resources
+__________________________________
+
+# Colors
+![](https://th.bing.com/th/id/OIP.AWklo0mzR3uqf_swNsmOsAHaD4?pid=ImgDet&rs=1) 
+
+With CSS, colors can be specified in different ways:
+
+* By color names
+* As RGB values
+* As hexadecimal values
+* As HSL values (CSS3)
+* As HWB values (CSS4)
+With the currentcolor keyword
+
+> An RGB color value is specified with: rgb( RED , GREEN , BLUE ).
+
+> A hexadecimal color is specified with: #RRGGBB.
+>HSL color values are specified with: hsl(hue, saturation, lightness).
+
+________
+# Text
+Setting Font Face
+You can set font face using face attribute but be aware that if the user viewing the page doesn't have the font installed, they will not be able to see it. Instead user will see the default font face applicable to the user's computer.
 
 Example
+```html
+<!DOCTYPE html>
+<html>
 
+   <head>
+      <title>Font Face</title>
+   </head>
+
+   <body>
+      <font face = "Times New Roman" size = "5">Times New Roman</font><br />
+      <font face = "Verdana" size = "5">Verdana</font><br />
+      <font face = "Comic sans MS" size =" 5">Comic Sans MS</font><br />
+      <font face = "WildWest" size = "5">WildWest</font><br />
+      <font face = "Bedrock" size = "5">Bedrock</font><br />
+   </body>
+
+</html>
+
+```
+_______
+## Font family 
+The font-family property can hold several font names as a 
+"fallback" system. If the browser does not support the first 
+font, it tries the next font.
+
+
+There are two types of font family names:
+
+
+* family-name - The name of a font-family, like "times", "courier", "arial", etc.
+* generic-family - The name of a generic-family, like "serif", "sans-serif", "cursive", "fantasy", "monospace".
+_________
+
+## font-weight
+
+ different font weight for three paragraphs:
 ```css
-table, th, td {
-  border: 1px solid black;
+p.normal {
+  font-weight: normal;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
 }
 ```
 
 ______
-### Summary
-1- Use the HTML < table> element to define a table
-
-2- Use the HTML < tr> element to define a table row
-
-3- Use the HTML < td> element to define a table data
-
-4- Use the HTML < th> element to define a table heading
-
-5- Use the HTML < caption> element to define a table caption
-
-* Use the CSS border property to define a border
-* Use the CSS border-collapse property to collapse cell borders
-* Use the CSS padding property to add padding to cells
-* Use the CSS text-align property to align cell text
-* Use the CSS border-spacing property to set the spacing between cells
-* Use the colspan attribute to make a cell span many columns
-* Use the rowspan attribute to make a cell span many rows
-* Use the id attribute to uniquely define one table
+## text-transform
+The text-transform property changes the capitalization of text within an element, or else directs the user agent to leave the capitalization "as is."
 
 
-___________
+--**Possible Values**
 
-## HTML List Tags
-Tag	| Description
--------|----------
-< ul>|	Defines an unordered list
-< ol>|	Defines an ordered list
-< li>|	Defines a list item
-< dl>|	Defines a description list
-< dt>|	Defines a term in a description list
-< dd>|	Describes the term in a description list
-_____
- 
- *< ol>
- Type |	Description
- ------|-----------
-type="1" |	The list items will be numbered with numbers (default)
-type="A" |	The list items will be numbered with uppercase letters
-type="a" |	The list items will be numbered with lowercase letters
-type="I" |	The list items will be numbered with uppercase roman numbers
-type="i" |	The list items will be numbered with lowercase roman numbers
+* capitalize − The first letter of each word in the element's text should be capitalized.
 
-__________
+* uppercase − All of the characters in the element's text should be uppercase (capital letters).
 
-## JavaScript Events
+* lowercase − All of the characters in the element's text should be lowercase.
 
-HTML events are "things" that happen to HTML elements.
+* none - The capitalization of the element's text should not be altered
+______
+## letter-spacing
+The letter-spacing property increases or decreases the space between characters in a text.
 
-When JavaScript is used in HTML pages, JavaScript can "react" on these events.
+## text-indent 
+The text-indent property specifies the indentation of the first line in a text-block.
 
-HTML allows event handler attributes, with JavaScript code, to be added to HTML elements.
+## text-shadow
+The text-shadow property adds shadow to text.
 
-With single quotes:
+* ## :focus , :active , :hover
+![](https://groups.drupal.org/files/6.buttons.png)
+_______________________
 
-< element event='some JavaScript'>
-With double quotes:
+## TL;DR
+Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth.
 
-< element event="some JavaScript">
-In the following example, an onclick attribute (with code), is added to a < button> element:
-Example
+## Compression
+Compression can be of two types — lossless and lossy. In lossless compression, it is possible to reconstruct the original image from the compressed image because there is no information loss during compression.
 
-```js
-<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
-```
-
-____
-### Common HTML Events
-
-Event	| Description
---------|------------
-onchange	|An HTML element has been changed
-onclick	|The user clicks an HTML element
-onmouseover	The user moves the mouse over an HTML element
-onmouseout|	The user moves the mouse away from an HTML element
-onkeydown	|The user pushes a keyboard key
-onload	|The browser has finished loading the page
-
-_______
-## JavaScript HTML DOM EventListener
-* The addEventListener() method attaches an event handler to the specified element.
-
-* The addEventListener() method attaches an event handler to an element without overwriting existing event handlers.
-
-* Syntax
-
->element.addEventListener(event, function, useCapture);
-
-### Example
-
-```js
-element.addEventListener("click", myFunction);
-
-function myFunction() {
-  alert ("Hello World!");
-}
-```
+## Transparency 
+## Animation
+Animation, in this case, refers to any change or movement in the image. It doesn’t necessarily have to have frame rates like an animated video, but essentially a part or the entire image changes with time.
