@@ -1,194 +1,132 @@
-# HTML Forms
-___
-![forms](https://www.kooba.ie/images/uploads/blog/article/Social_Post_-_Forms.jpg)
-
-### An HTML form is used to collect user input. The user input is most often sent to a server for processing.
-- - 
-
-## * The < form> Element
-The HTML < form> element is used to create an HTML form for user input:
- ```html
-<form>
-.
-form elements
-.
-</form>
-
- ```
-
-* ### note : 
-The < form> element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
-____
-
-
- ## HTML Form Elements.
-
-* The **< input>** Element :
-
-The HTML < input> element is the most used form element.
-
-* An < input> element can be displayed in many ways, depending on the type attribute.
-
-Here are some examples:
-
-Type |	Description
-------|-------------
-< input type="text"> |	Displays a single-line text input field
-< input type="radio">	| Displays a radio button (for selecting one of many choices)
-< input type="checkbox"> |	Displays a checkbox (for selecting zero or more of many choices)
-< input type="submit"> |	Displays a submit button (for submitting the form)
-< input type="button"> |	Displays a clickable button
-_______
-
-## How Forms Work 
-
-![img](https://th.bing.com/th/id/OIP.r24LFj9R3LlITunueSKUAQHaFj?pid=ImgDet&w=400&h=300&rs=1)
-
-____
-
-## HTML Form Attributes
-
-* The Action Attribute
-
-The action attribute defines the action to be performed when the form is submitted.
-
-Example
-```html
-<form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Aseel"><br>
-  <label for="lname">Last name:</label><br>
-  <br>
-  <input type="submit" value="Submit">
-</form>
-```
-
-___
-* The Method Attribute
-
-The method attribute specifies the HTTP method to be used when submitting the form data.
-
-Example
-
-```html 
-<form action="/action_page.php" method="get">
-```
-_______
-## HTML Tables
-
-* The < table> tag defines an HTML table.
-
-* Each table row is defined with a < tr> tag. 
-* Each table header is defined with a < th> tag. * Each table data/cell is defined with a < td> tag.
-
---- By default, the text in  < th> elements are bold and centered.
-
-1- HTML Table - Add a Border
-To add a border to a table, use the CSS border property
-
-Example
-
-```css
-table, th, td {
-  border: 1px solid black;
-}
-```
-
-______
-### Summary
-1- Use the HTML < table> element to define a table
-
-2- Use the HTML < tr> element to define a table row
-
-3- Use the HTML < td> element to define a table data
-
-4- Use the HTML < th> element to define a table heading
-
-5- Use the HTML < caption> element to define a table caption
-
-* Use the CSS border property to define a border
-* Use the CSS border-collapse property to collapse cell borders
-* Use the CSS padding property to add padding to cells
-* Use the CSS text-align property to align cell text
-* Use the CSS border-spacing property to set the spacing between cells
-* Use the colspan attribute to make a cell span many columns
-* Use the rowspan attribute to make a cell span many rows
-* Use the id attribute to uniquely define one table
-
-
-___________
-
-## HTML List Tags
-Tag	| Description
--------|----------
-< ul>|	Defines an unordered list
-< ol>|	Defines an ordered list
-< li>|	Defines a list item
-< dl>|	Defines a description list
-< dt>|	Defines a term in a description list
-< dd>|	Describes the term in a description list
+![1](https://techstacker.com/static/5e267e2ee412a23e797106ee564145a0/4148e/js.png)
+# Object Literal in JavaScript?
 _____
- 
- *< ol>
- Type |	Description
- ------|-----------
-type="1" |	The list items will be numbered with numbers (default)
-type="A" |	The list items will be numbered with uppercase letters
-type="a" |	The list items will be numbered with lowercase letters
-type="I" |	The list items will be numbered with uppercase roman numbers
-type="i" |	The list items will be numbered with lowercase roman numbers
 
+* ### What is an Object Literal?
+An **Object** is a special type of value in JavaScript that can have connections with other values.
+
+
+An **Object Literal** is an object value that you literally write in your program/app.
+
+An Object Literal usually consists of a list of comma-separated name-value pairs (property:value), wrapped inside curly braces {}.
+
+* Example:
+![](https://xomino.files.wordpress.com/2013/04/j4.png?w=700)
+
+### * Object Literal Syntax
+Object literals are defined using the following syntax rules:
+
+. A colon separates property name[1] from value.
+. A comma separates each name-value pair from the next.
+
+. A comma after the last name-value pair is optional.
+___________________________
+
+### * Why and How We Use Object Literals
+Several JavaScripts from dyn-web use object literals for setup purposes. Object literals enable us to write code that supports lots of features yet still provide a relatively straightforward process for implementers of our code. No need to invoke constructors directly or maintain the correct order of arguments passed to functions. Object literals are also useful for unobtrusive event handling; they can hold the data that would otherwise be passed in function calls from HTML event handler attributes.
+
+There is one drawback: if you are unfamiliar with the syntax, it can be very easy to introduce errors which cause the code to stop working.
+________________
+# Document Object Model
+![3](https://simplesnippets.tech/wp-content/uploads/2018/10/what-is-document-object-model-in-JS-featured-image.jpg)
+
+The document object represents the whole html document.
+
+When html document is loaded in the browser, it becomes a document object. It is the root element that represents the html document. It has properties and methods. By the help of document object, we can add dynamic content to our web page.
+
+* ### What is the HTML DOM?
+The HTML DOM is a standard object model and programming interface for HTML. It defines:
+
+- The HTML elements as objects
+- The properties of all HTML elements
+- The methods to access all HTML elements
+- The events for all HTML elements
+
+_____
+* ### Methods of Document Object:
+
+1-write(“string”): writes the given string on the document.
+
+2- getElementById(): returns the element having the given id value.
+
+3- getElementsByName(): returns all the elements having the given name value.
+
+4- getElementsByTagName(): returns all the elements having the given tag name.
+
+5- getElementsByClassName(): returns all the elements having the given class name.
 __________
+ * DOM querySelector() Method
 
-## JavaScript Events
+ The querySelector() method returns the first element that matches a specified CSS selector(s) in the document.
 
-HTML events are "things" that happen to HTML elements.
 
-When JavaScript is used in HTML pages, JavaScript can "react" on these events.
+Note: The querySelector() method only returns the first element that matches the specified selectors. To return all the matches, use the querySelectorAll() method instead.
 
-HTML allows event handler attributes, with JavaScript code, to be added to HTML elements.
 
-With single quotes:
+If the selector matches an ID in document that is used several times (Note that an "id" should be unique within a page and should not be used more than once), it returns the first matching element.
+______
 
-< element event='some JavaScript'>
-With double quotes:
+* getElementsByClassName() Method
 
-< element event="some JavaScript">
-In the following example, an onclick attribute (with code), is added to a < button> element:
-Example
+The getElementsByClassName() method returns a collection of all elements in the document with the specified class name, as an HTMLCollection object.
 
+The HTMLCollection object represents a collection of nodes. The nodes can be accessed by index numbers. The index starts at 0.
+________
+
+* Looping through NodeLists with ES6
+
+The traditional way of looping through NodeLists is the same as looping through arrays: with a for loop.
+
+var elems = document.querySelectorAll('.some-selector');
 ```js
-<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
-```
-
-____
-### Common HTML Events
-
-Event	| Description
---------|------------
-onchange	|An HTML element has been changed
-onclick	|The user clicks an HTML element
-onmouseover	The user moves the mouse over an HTML element
-onmouseout|	The user moves the mouse away from an HTML element
-onkeydown	|The user pushes a keyboard key
-onload	|The browser has finished loading the page
-
-_______
-## JavaScript HTML DOM EventListener
-* The addEventListener() method attaches an event handler to the specified element.
-
-* The addEventListener() method attaches an event handler to an element without overwriting existing event handlers.
-
-* Syntax
-
->element.addEventListener(event, function, useCapture);
-
-### Example
-
-```js
-element.addEventListener("click", myFunction);
-
-function myFunction() {
-  alert ("Hello World!");
+for (var i = 0; i < elems.length; i++) {
+    console.log(i); // index
+    console.log(elems[i]); // value
 }
 ```
+The ES6 Way #
+
+Fortunately, just like with arrays, there’s a forEach() method for NodeLists.
+```js
+var elems = document.querySelectorAll('.some-selector');
+
+elems.forEach(function (elem, index) {
+    console.log(index); // index
+    console.log(elem); // value
+});
+```
+## *Accessing Attributes
+You can access attributes by creating an object of the class, and by using the dot syntax (.):
+
+____________
+ ## * removeAttribute() Method
+
+Example
+Remove the class attribute from an < h1> element:
+```js
+document.getElementsByTagName("H1")[0].removeAttribute("class");
+ ```
+ _______
+ ## Summary :
+ The browser represents the page using a DOM tree.
+
+* DOM trees have four types of nodes: document nodes,
+element nodes, attribute nodes, and text nodes.
+
+* You can select element nodes by their id or cl ass
+attributes, by tag name, or using CSS selector syntax.
+
+* Whenever a DOM query can return more than one
+node, it will always return a Nadel i st.
+
+* From an element node, you can access and update its
+content using properties such as textContent and
+i nnerHTML or using DOM manipulation techniques.
+
+* An element node can contain multiple text nodes and
+child elements that are siblings of each other.
+
+* In older browsers, implementation of the DOM is
+inconsistent (and is a popular reason for using jQuery).
+
+* Browsers offer tools for viewing the DOM tree
