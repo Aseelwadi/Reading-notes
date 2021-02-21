@@ -130,3 +130,6 @@ child elements that are siblings of each other.
 inconsistent (and is a popular reason for using jQuery).
 
 * Browsers offer tools for viewing the DOM tree
+
+
+_________

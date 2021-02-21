@@ -31,7 +31,7 @@ Page link         | discreption
 [Class-04](https://aseelwadi.github.io/reading-notes/class-04)      | HTML Links, JS Functions, and Intro to CSS Layout
 [Class-05](https://aseelwadi.github.io/reading-notes/class-05)      | Images, Color, Text
 [Class-06](https://aseelwadi.github.io/reading-notes/class-06)      | Problem Domain, Objects, and the DOM
-[Class-07](https://aseelwadi.github.io/reading-notes/class-07)      | Class-07
+[Class-07](https://aseelwadi.github.io/reading-notes/class-07)      | Object-Oriented Programming, HTML Tables
 [Class-08](https://aseelwadi.github.io/reading-notes/class-08)      | Class-08
 [Class-09](https://aseelwadi.github.io/reading-notes/class-09)      | Class-09
 [Class-10](https://aseelwadi.github.io/reading-notes/class-10)      | Class-10
