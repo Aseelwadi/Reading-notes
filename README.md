@@ -33,7 +33,7 @@ Page link         | discreption
 [Class-06](https://aseelwadi.github.io/reading-notes/class-06)      | Problem Domain, Objects, and the DOM
 [Class-07](https://aseelwadi.github.io/reading-notes/class-07)      | Object-Oriented Programming, HTML Tables
 [Class-08](https://aseelwadi.github.io/reading-notes/class-08)      | HTML Layout
-[Class-09](https://aseelwadi.github.io/reading-notes/class-09)      | Class-09
+[Class-09](https://aseelwadi.github.io/reading-notes/class-09)      | Forms and JS Events
 [Class-10](https://aseelwadi.github.io/reading-notes/class-10)      | Class-10
 [Class-11](https://aseelwadi.github.io/reading-notes/class-11)      | Class-11
 [Class-12](https://aseelwadi.github.io/reading-notes/class-12)      | Class-12
