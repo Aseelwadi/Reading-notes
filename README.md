@@ -34,8 +34,8 @@ Page link         | discreption
 [Class-07](https://aseelwadi.github.io/reading-notes/class-07)      | Object-Oriented Programming, HTML Tables
 [Class-08](https://aseelwadi.github.io/reading-notes/class-08)      | HTML Layout
 [Class-09](https://aseelwadi.github.io/reading-notes/class-09)      | Forms and JS Events
-[Class-10](https://aseelwadi.github.io/reading-notes/class-10)      | Audio, Video,Images
-[Class-11](https://aseelwadi.github.io/reading-notes/class-11)      | Class-11
+[Class-10](https://aseelwadi.github.io/reading-notes/class-10)      | Debugging
+[Class-11](https://aseelwadi.github.io/reading-notes/class-11)      | Audio, Video,Images
 [Class-12](https://aseelwadi.github.io/reading-notes/class-12)      | Class-12
 [Class-13](https://aseelwadi.github.io/reading-notes/class-13)      | Class-13
 [Class-14](https://aseelwadi.github.io/reading-notes/class-14)      | Class-14
