@@ -37,7 +37,7 @@ Page link         | discreption
 [Class-10](https://aseelwadi.github.io/reading-notes/class-10)      | Debugging
 [Class-11](https://aseelwadi.github.io/reading-notes/class-11)      | Audio, Video,Images
 [Class-12](https://aseelwadi.github.io/reading-notes/class-12)      | Chart.js, Canvas
-[Class-13](https://aseelwadi.github.io/reading-notes/class-13)      | Class-13
+[Class-13](https://aseelwadi.github.io/reading-notes/class-13)      | Local storge
 [Class-14](https://aseelwadi.github.io/reading-notes/class-14)      | Class-14
 [Class-15](https://aseelwadi.github.io/reading-notes/class-15)      | Class-15
 
