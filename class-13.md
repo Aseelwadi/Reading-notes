@@ -1,4 +1,4 @@
-# local Storage for Offline Web Applications
+# local Storage for Web Applications
 
 ![](https://techglimpse.com/wp-content/uploads/2013/04/localstorage.jpg)
 
