@@ -38,9 +38,8 @@ Page link         | discreption
 [Class-11](https://aseelwadi.github.io/reading-notes/class-11)      | Audio, Video,Images
 [Class-12](https://aseelwadi.github.io/reading-notes/class-12)      | Chart.js, Canvas
 [Class-13](https://aseelwadi.github.io/reading-notes/class-13)      | Local storge
-[Class-14](https://aseelwadi.github.io/reading-notes/class-14)      | What Google Learned About Teams
-[Class-15](https://aseelwadi.github.io/reading-notes/class-15)      | Class-15
-
+[Class-14](https://aseelwadi.github.io/reading-notes/class-14)      |CSS Transforms, Transitions, and Animations
+[Class-15](https://aseelwadi.github.io/reading-notes/class-15)      | Google learn from QUest
 
 
 
