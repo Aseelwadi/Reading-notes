@@ -1,4 +1,11 @@
-## Content Table
+![](https://th.bing.com/th/id/OIP.yxIH9ahP2uYjhoDgF8lYNQHaEK?pid=ImgDet&rs=1)
+In this blog, you will find many topics related to web development explained in a simple and clear way .. You can view them and take them as a primary basis for your way to learn web applications. And then expand on each topic.
+In this presented sequence of topics you will go from being a beginner programmer to becoming an Advance programmer
+__________________
+
+## Code 102 - Intro to Software Development
+
+### Content Table
 ___
 
 Page link         | discreption 
@@ -16,7 +23,9 @@ Page link         | discreption
 
 
 ________________________
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
+* In this blog, you'll find various topics realted to web development explained in a simple, neat way! You'll find in depth discussions and topics about the foundation of web development: HTML, CSS, Javascript
+
 
 > HTML , CSS , JS 
 
@@ -42,61 +51,20 @@ Page link         | discreption
 [Class-15](https://aseelwadi.github.io/reading-notes/class-15)      | Google learn from QUest
 
 
+_______
+## Code 301 - Intermediate Software Development
+* In this blog, you'll find various topics realted to web development explained in a simple, neat way! You'll find in depth discussions and topics about the foundation of web development.
 
+### reading Notes
+Page link         | discreption 
+------------ | -------------
 
-____________
-# Reading-notes
+__________
+## Code 401 - Advanced Software Development
+Page link         | discreption 
+------------ | -------------
 
-Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
-___
-___
-#### what we learned in Markkdown tutorial .?
-
- PS . line through  ~~word~~
-
-   1. Text format
-   2. List
-   3. Table
-   5. url
-   6. images
-   7. code
-      * Item 3a
-      * Item 3b
-   8. How to add line   
-
- ### ordered List as above 
- ___
-
-
- ### Example of un Unordered List 
-      
-* C++
-* PHP
-  * JQ
-  * JS
- ___
-
- ### URL Example
- [Google](http://google.com)
-
-___
-### IMG Example 
 ![LTUC](https://tse3.mm.bing.net/th?id=OIP.NnKjqMfUo-fisKWU9URw4QHaE5&pid=Api&P=0&w=271&h=180)
 
 
- ___
- ### Code Example :
 
- ```C++
-var add2 = function(number) {
-  return number + 2;
-}
-```
- ___
- WE add Line by write three dashes - - - without spaces .
- ___
- ### Blockquotes Example 
-
-> We're living the future so
-> the present is our past.
-___
