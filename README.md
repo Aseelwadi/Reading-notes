@@ -1,4 +1,6 @@
 ![](https://th.bing.com/th/id/OIP.yxIH9ahP2uYjhoDgF8lYNQHaEK?pid=ImgDet&rs=1)
+
+______
 In this blog, you will find many topics related to web development explained in a simple and clear way .. You can view them and take them as a primary basis for your way to learn web applications. And then expand on each topic.
 In this presented sequence of topics you will go from being a beginner programmer to becoming an Advance programmer
 __________________
