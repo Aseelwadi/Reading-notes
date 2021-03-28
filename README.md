@@ -61,6 +61,7 @@ _______
 Page link         | discreption 
 ------------ | -------------
 [Class-01](https://aseelwadi.github.io/reading-notes/code301-1) | Responsive Web Design ,float .grid .
+[Class-02](https://aseelwadi.github.io/reading-notes/code301-2) | jQuery(Write less, do more).
 
 __________
 ## Code 401 - Advanced Software Development
