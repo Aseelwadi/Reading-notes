@@ -65,6 +65,8 @@ Page link         | discreption
 [Class-03](https://aseelwadi.github.io/reading-notes/code301-3) | MUSTACHE and FLEXBOX.
 [Class-04](https://aseelwadi.github.io/reading-notes/code301-4) | Grid.
 
+[Class-05](https://aseelwadi.github.io/reading-notes/code301-5) | Grid.
+
 __________
 ## Code 401 - Advanced Software Development
 Page link         | discreption 
