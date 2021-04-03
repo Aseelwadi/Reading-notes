@@ -64,7 +64,9 @@ Page link         | discreption
 [Class-02](https://aseelwadi.github.io/reading-notes/code301-2) | jQuery(Write less, do more).
 [Class-03](https://aseelwadi.github.io/reading-notes/code301-3) | MUSTACHE and FLEXBOX.
 [Class-04](https://aseelwadi.github.io/reading-notes/code301-4) | Grid.
-[Class-05](https://aseelwadi.github.io/reading-notes/code301-5) | Grid.
+[Class-05](https://aseelwadi.github.io/reading-notes/code301-5) | Heroku Deploy.
+[Class-05](https://aseelwadi.github.io/reading-notes/code301-5) | Heroku Deploy.
+[Class-06](https://aseelwadi.github.io/reading-notes/code301-6) | Node.js.
 
 __________
 ## Code 401 - Advanced Software Development
