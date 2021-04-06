@@ -69,6 +69,7 @@ Page link         | discreption
 [Class-06](https://aseelwadi.github.io/reading-notes/code301-6) | Node.js.
 [Class-07](https://aseelwadi.github.io/reading-notes/code301-7) | API.
 [Class-08](https://aseelwadi.github.io/reading-notes/code301-8) | SQL.
+[Class-09](https://aseelwadi.github.io/reading-notes/code301-9) | Functional programming .
 
 
 __________
