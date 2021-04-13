@@ -72,6 +72,7 @@ Page link         | discreption
 [Class-09](https://aseelwadi.github.io/reading-notes/code301-9) | Functional programming .
 [Class-10](https://aseelwadi.github.io/reading-notes/code301-10) | Functional programming .
 [Class-11](https://aseelwadi.github.io/reading-notes/code301-11) | EJS  .
+[Class-12](https://aseelwadi.github.io/reading-notes/code301-12) | EJS 
 
 
 __________
